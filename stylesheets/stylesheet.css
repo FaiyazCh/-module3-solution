@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box; 
 }
-
 body {
     padding: 0;
     margin: 0;
@@ -72,18 +71,14 @@ p.text-center{
 @media (min-width: 1200px) {
 
   }
-
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
- 
 }
-
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
 }
-
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
  .container .row{
@@ -92,5 +87,4 @@ p.text-center{
  	}
 }
   @media (max-width: 479px) {
-
   }
